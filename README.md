@@ -1,4 +1,4 @@
-# Explorer projeto 03 - Stage 02 projeto final
+# Explorer Stage 02 - projeto final
 
 ![preview](images/preview.png)
 
